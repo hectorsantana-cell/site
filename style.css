@@ -1,0 +1,20 @@
+
+body {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 180px;
+    border-style: groove;
+background-image: url(DDio.webp);
+}
+
+.cartao img {
+    width: 500px;  
+    background-color: blue;
+    margin: auto;
+}
+
+p, h1, h2 {
+    color: rgb(255, 238, 0);
+}
+
+
